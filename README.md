@@ -1,0 +1,1 @@
+following along to Cory House PluralSight course 'Building Applications with React and Flux'
